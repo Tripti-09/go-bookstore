@@ -22,7 +22,7 @@ This project is a feature-rich REST API built using Go, MySQL, and ORM. It serve
 
 To get started with the API, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/bookstore-api.git`
+1. Clone the repository: `git clone https://github.com/Tripti-09/bookstore-api.git`
 2. Install the necessary dependencies: `go mod download`
 3. Set up your MySQL database and configure the connection details in the API's configuration file.
 4. Run the API: `go run main.go`
